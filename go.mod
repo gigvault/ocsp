@@ -3,7 +3,7 @@ module github.com/gigvault/ocsp
 go 1.24.0
 
 require (
-	github.com/gigvault/shared v1.2.0
+	github.com/gigvault/shared v1.3.0
 	github.com/gorilla/mux v1.8.1
 	github.com/jackc/pgx/v5 v5.5.0
 	go.uber.org/zap v1.26.0
